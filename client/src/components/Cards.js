@@ -8,7 +8,7 @@ function Cards() {
             <h1>Check out these EPIC destinations!</h1>   
             <div className='cards__container'>
                 <div className='cards__wrapper'>
-                    <ul className='cards_item_text' >
+                    <ul className='cards_items' >
                         <CardItem 
                             src='images/img-9.jpg'
                             text='Explore the hidden waterfall deep inside the Amazon Junble'
